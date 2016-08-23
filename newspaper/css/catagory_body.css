@@ -1,0 +1,26 @@
+@charset "utf-8";
+#maindiv1 #maindiv3 {
+	height:auto;
+	overflow:auto;
+	border-top:8px solid #FFF;
+}
+#maindiv3 #titlenews {
+	height:auto;
+	overflow:auto;
+}
+#maindiv3 #allnews {
+	height:auto;
+	overflow:auto;
+	border-top:4px solid #FFF;
+}
+#allnews #news1 {
+	height:auto;
+	overflow:auto;
+	float:left;
+	width:50%;
+}
+#allnews #news2 {
+	height:auto;
+	overflow:auto;
+	float:right;
+}

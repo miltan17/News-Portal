@@ -1,0 +1,184 @@
+@charset "utf-8";
+#maindiv1 #maindiv1_3 {
+	overflow:auto;
+}
+#maindiv1 #maindiv3 {
+	width:1140px;
+	overflow:auto;
+	border-top:4px solid #FFF;
+}
+#maindiv3 #add_photo_video {
+	float:left;
+	overflow:auto;
+	border-top:8px solid #FFF;
+	width:750px;
+}
+
+	#add_photo_video #md3add1 {
+		overflow:auto;
+		border-bottom:8px solid #FFF;
+	}
+		#md3add1 #md3add1_1 {
+			float:left;
+			border-right:8px solid #FFF;
+		}
+		#md3add1 #md3add1_2 {
+			float:right;
+			border-left:2px solid #FFF;
+		}
+		
+	
+	#add_photo_video #md3photo {
+		overflow:auto;
+	}
+		#md3photo #md3photo1 {
+			float:left;
+			overflow:auto;
+			width:54%;
+		}
+
+
+			#md3photo1 #md3photo_heading {
+				height:30px;
+				width:397px;
+				background-color:#CCC;
+				font-size:18px;
+				text-align:center;
+				font-weight:200;
+				border-bottom:8px solid #FFF;
+				padding:2px;
+			}
+			#md3photo1 #md3photo_photo {
+				overflow:auto;
+				width:405px;
+			}
+			
+		#md3photo #md3photo2 {
+			float:right;
+			width:44%;
+			overflow:auto;	
+		}
+			#md3photo2 #more_photo_heading {
+				height:30px;
+				width:300px;
+				background-color:#CCC;
+				font-size:18px;
+				text-align:center;
+				font-weight:200;
+				border-bottom:8px solid #FFF;
+				padding:2px;
+				border-left:8px solid #FFF;
+			}
+			#md3photo2 #more_photo {
+			}
+
+#maindiv3 #vot_add {
+	float:right;
+	overflow:auto;
+	width:390px;
+	border-top:8px solid #FFF;
+}
+	#vot_add #jorip {
+		text-align:center;
+		color:#900;
+		padding:2px;
+		border:2px dotted #00FF00;
+		font-family:Arial, Helvetica, sans-serif;
+		font:bold;
+		
+		
+	}
+	#vot_add #question {
+		border:28px solid #FFF;
+		padding:4px;
+		background:#CCC;
+		font-family:Arial, Helvetica, sans-serif;
+	}
+#vot_add #votdin {
+	border-left:28px solid #FFF;
+	border-right:28px solid #FFF;
+}
+#votdin #vot {
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	width:30%;
+	font-size:22px;
+	color:#0CF;
+}
+#votdin #yes_no {
+	float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	width:70%;
+	font-size:22px;
+	color:#0CF;
+}
+#maindiv1_3 #maindiv5 {
+	overflow:auto;
+	border-top:6px solid #FFF;
+}
+	#maindiv5 #allnews {
+		overflow:auto
+		float:left;
+		width:60%
+	}
+				
+			
+		#allnews #catagory {
+	overflow:auto;
+	height:auto;
+}
+#catagory #catagory_heading {
+	width:680px;
+	background:#CCC;
+	height:30px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	border-top:2px solid #CCC;
+	border-bottom:2px solid #CCC;
+	padding:2px;
+}
+#catagory #catagory_news {
+	height:auto;
+}
+#catagory_news #catagory_news1 {
+	float:left;
+	border-top:2px solid #FFF;
+	width:50%;
+	border-right:1px solid #06F;
+	height:auto;
+	font-size:16px;
+}
+#catagory_news #catagory_news2 {
+	float:right;
+	height:auto;
+	width:48%;
+	font-size:16px;
+}
+
+
+	#maindiv5 #othernews {
+	float:right;
+	width:38%;
+	border-left:1px solid #000;
+}
+		#othernews #bichitro_khobor {
+			height:auto;
+			padding-bottom:4px;
+			border-bottom:1px solid #000;
+			padding-left:40px;
+			padding-top:4px;
+		}
+		#othernews #grambangla {
+			height:auto;
+			border-bottom:1px solid #000;
+			padding-left:40px;
+		}
+		#othernews #campuslife {
+			height:auto;
+			border-bottom:1px solid #000;
+		}
+#slideshow {
+	overflow:auto;
+	width:405px;
+	height:300px;
+}

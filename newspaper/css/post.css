@@ -1,0 +1,23 @@
+@charset "utf-8";
+#maindiv1 .maindiv3 {
+	overflow:auto;
+	margin-top:8px;
+	width:1140px;
+}
+.post_details {
+	float:left;
+	width:65%;
+	height:auto;
+	
+}
+.others {
+	float:right;
+	width:33%;
+}
+.post_details .catagory {
+	height:40px;
+	 border-bottom:2px solid #CCC;
+	 border-top:2px solid #CCC;
+}
+.post_details .details {
+}

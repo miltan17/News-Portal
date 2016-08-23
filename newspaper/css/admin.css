@@ -1,0 +1,27 @@
+@charset "utf-8";
+.maindiv {
+	overflow:auto;
+	margin-left:40px;
+}
+.maindiv .subdiv1 {
+	float:left;
+	width:70%;
+	
+}
+.maindiv .subdiv2 {
+	float:right;
+	width:30%;
+}
+.navbar .navbar-inner .nav {
+	display:inline;
+}
+.header {
+	margin-left:40px;
+}
+a.one:link {
+			font-family:Arial, Helvetica, sans-serif;
+			text-decoration:none;
+		}
+		a.one:hover {
+			color:#F00;
+		}

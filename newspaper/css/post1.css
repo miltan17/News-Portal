@@ -1,0 +1,217 @@
+@charset "utf-8";
+body{
+background:#FFF;	
+}
+
+
+#maindiv1 {
+	width:1150px;
+	background:#FFF;
+	margin-top:0px;
+	margin-left:100px;
+	margin-right:120px;
+	border:1px solid #FFF;
+
+}
+
+#maindiv1 #maindiv2 {
+	width:1140px;
+	overflow:auto;
+}
+
+#maindiv2 #title {
+	display:block;
+	overflow:auto;
+	width:100%;
+	height:120px;
+}
+
+#title #name {
+	width:800px;
+	float:left;	
+}
+
+	#name #title_name {
+	width:296px;
+	float:left;
+	padding-right:10px;
+	margin-right:10px;
+	}
+
+	#name #title_add {
+		float:right;
+		width:450px
+	}
+	
+#title #date_time {
+	float:right;
+	margin-right:10px;
+	margin:0;
+	width:300px;
+	height:75px;
+}
+
+#date_time #date_time1 {
+	overflow:auto;
+	text-align:center;
+	color:#999;
+}
+
+#date_time #date_time2 {
+	overflow:auto;
+	height:34px;
+	border-top:0px solid #FFF;
+}
+#date_time #date_time3 {
+	overflow:auto;
+}
+
+
+#maindiv2 #login_search {
+	width:1140px;
+	height:30px;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666;
+	background-color:#CCC;
+}
+
+
+#login_search #login {
+	width:50%; 
+	height:30px;   
+	display:block;
+	float:left;	
+}
+#login p1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	line-height: normal;
+	color: #000;
+	
+}
+
+#login p2 {
+	font-size: 18px;
+	line-height: normal;
+	color: #000;
+	font-weight:100;
+}
+#login p3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style:italic;
+	color: #000;
+	word-spacing:5px;
+}
+
+#login_search #search {
+	width:50%;
+	height:30px;
+	display:block;
+	float:right;
+}
+#maindiv2 #menu {
+	width:100%;
+	height:35px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#maindiv2 #addshow {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #000;
+	border-bottom-color: #000;
+	height:205px;
+}
+#addshow #add {
+	width:1107px;
+	float:left;
+	height:100%;
+	
+}
+#addshow #social_link {
+	width:30px;
+	float:right;
+	height:100%;	
+}
+#social_link #fb {
+	height:30px;
+	border:4px solid #FFF;
+}
+	#social_link #twt {
+	height:30px;
+	border:4px solid #FFF;
+}
+#social_link #in {
+	border:4px solid #FFF;
+	height:30px;
+}
+#social_link #googleplus {
+	border:4px solid #FFF;
+	height:30px;
+}
+#social_link #janina {
+	border:4px solid #FFF;
+	height:30px;
+}
+
+#maindiv2 #sorbosessongbad {
+	border-bottom:1px solid #000;
+	overflow:auto;
+}
+#sorbosessongbad #sorboses {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:25px;
+	color:#FFF;
+	background-color:#F00;
+	width:92px;
+	float:left;
+	text-shadow:#000;
+	padding:1px 1px;
+}
+#sorbosessongbad #songbad {
+	float:right;
+	width:1046px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	height:30px;
+	background-color:#EAEAEA;
+}
+a.latestnews:link {
+	color:#000;
+}
+a.latestnews:hover {
+	color:#F00;
+}
+#maindiv2 #sironam {
+	overflow:auto;
+	border-bottom:1px solid #CCC;
+}
+#sironam #space {
+	height:30px;
+}
+#sironam #writesironam {
+	height:30px;
+}
+#writesironam #write {
+	float:left;
+	width:92px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#F00;
+	
+}
+#writesironam #siro {
+	float:right;
+	width:1046px;
+	height:30px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+}
+
